@@ -1,4 +1,4 @@
-# My Project
+# Multi Speaker Book to Audiobook-Synthesis
 
 A Python project using the Zonos model and VoxCeleb dataset to convert books into audiobooks automatically.
 Use main.py to run all the code or comment out section as each part is accecible individually due to all the data being provided. 
