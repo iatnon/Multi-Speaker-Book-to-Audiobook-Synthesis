@@ -1,0 +1,10 @@
+torch
+torchaudio
+pydub
+numpy
+gensim
+pandas
+librosa
+scipy
+matplotlib
+statsmodels

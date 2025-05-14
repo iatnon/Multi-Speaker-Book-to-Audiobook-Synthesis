@@ -1,0 +1,5438 @@
+{
+    "Mathilda May": [
+        "F",
+        51,
+        "sultry",
+        "soft",
+        "breathy",
+        "warm",
+        "exotic"
+    ],
+    "Janice Dickinson": [
+        "F",
+        61,
+        "raspy",
+        "bold",
+        "sharp",
+        "confident",
+        "nasal"
+    ],
+    "Kangana Ranaut": [
+        "F",
+        29,
+        "clear",
+        "fiery",
+        "intense",
+        "crisp",
+        "expressive"
+    ],
+    "Joan Chen": [
+        "F",
+        54,
+        "gentle",
+        "smooth",
+        "calm",
+        "rich",
+        "melodic"
+    ],
+    "Paul Gross": [
+        "M",
+        56,
+        "warm",
+        "steady",
+        "clear",
+        "resonant",
+        "soothing"
+    ],
+    "Brian Blessed": [
+        "M",
+        79,
+        "booming",
+        "deep",
+        "gruff",
+        "powerful",
+        "theatrical"
+    ],
+    "Morena Baccarin": [
+        "F",
+        36,
+        "silky",
+        "soft",
+        "clear",
+        "warm",
+        "alluring"
+    ],
+    "John Oliver": [
+        "M",
+        38,
+        "crisp",
+        "witty",
+        "nasal",
+        "sharp",
+        "energetic"
+    ],
+    "Amanda Seyfried": [
+        "F",
+        30,
+        "light",
+        "sweet",
+        "breathy",
+        "clear",
+        "youthful"
+    ],
+    "Tim Minchin": [
+        "M",
+        40,
+        "playful",
+        "sharp",
+        "expressive",
+        "dynamic",
+        "quirky"
+    ],
+    "Steven Bauer": [
+        "M",
+        59,
+        "gravelly",
+        "deep",
+        "smooth",
+        "intense",
+        "rugged"
+    ],
+    "Willem Dafoe": [
+        "M",
+        60,
+        "raspy",
+        "distinct",
+        "grating",
+        "intense",
+        "unique"
+    ],
+    "Josh Henderson": [
+        "M",
+        34,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "Henry Cavill": [
+        "M",
+        32,
+        "deep",
+        "rich",
+        "calm",
+        "resonant",
+        "polished"
+    ],
+    "Matthew Modine": [
+        "M",
+        56,
+        "soft",
+        "steady",
+        "warm",
+        "gentle",
+        "thoughtful"
+    ],
+    "Woody Harrelson": [
+        "M",
+        54,
+        "gravelly",
+        "drawling",
+        "casual",
+        "warm",
+        "distinct"
+    ],
+    "Aaron Yoo": [
+        "M",
+        36,
+        "light",
+        "quick",
+        "clear",
+        "youthful",
+        "energetic"
+    ],
+    "John Amos": [
+        "M",
+        76,
+        "deep",
+        "rich",
+        "gruff",
+        "authoritative",
+        "warm"
+    ],
+    "Miriam Margolyes": [
+        "F",
+        74,
+        "rich",
+        "expressive",
+        "cheeky",
+        "robust",
+        "theatrical"
+    ],
+    "Kelly Macdonald": [
+        "F",
+        40,
+        "soft",
+        "gentle",
+        "lilting",
+        "warm",
+        "subtle"
+    ],
+    "Gates McFadden": [
+        "F",
+        67,
+        "clear",
+        "calm",
+        "steady",
+        "warm",
+        "articulate"
+    ],
+    "Alfre Woodard": [
+        "F",
+        63,
+        "deep",
+        "soulful",
+        "warm",
+        "powerful",
+        "resonant"
+    ],
+    "Seann William Scott": [
+        "M",
+        39,
+        "goofy",
+        "light",
+        "nasal",
+        "playful",
+        "energetic"
+    ],
+    "Grant Bowler": [
+        "M",
+        47,
+        "deep",
+        "smooth",
+        "steady",
+        "warm",
+        "confident"
+    ],
+    "Margo Martindale": [
+        "F",
+        64,
+        "rich",
+        "gravelly",
+        "warm",
+        "strong",
+        "expressive"
+    ],
+    "Witney Carson": [
+        "F",
+        22,
+        "bright",
+        "clear",
+        "youthful",
+        "cheerful",
+        "light"
+    ],
+    "Debi Mazar": [
+        "F",
+        51,
+        "raspy",
+        "sharp",
+        "quick",
+        "sassy",
+        "urban"
+    ],
+    "Sidharth Malhotra": [
+        "M",
+        31,
+        "smooth",
+        "deep",
+        "calm",
+        "warm",
+        "charming"
+    ],
+    "Kristen Johnston": [
+        "F",
+        48,
+        "husky",
+        "bold",
+        "dry",
+        "witty",
+        "strong"
+    ],
+    "Mario Lopez": [
+        "M",
+        42,
+        "bright",
+        "smooth",
+        "energetic",
+        "clear",
+        "upbeat"
+    ],
+    "Billie Joe Armstrong": [
+        "M",
+        44,
+        "nasal",
+        "raw",
+        "edgy",
+        "expressive",
+        "gritty"
+    ],
+    "Martin Shaw": [
+        "M",
+        71,
+        "deep",
+        "calm",
+        "resonant",
+        "steady",
+        "refined"
+    ],
+    "Keegan Allen": [
+        "M",
+        26,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "warm"
+    ],
+    "Leslie Mann": [
+        "F",
+        43,
+        "light",
+        "quirky",
+        "breathy",
+        "playful",
+        "sweet"
+    ],
+    "Ajay Devgn": [
+        "M",
+        46,
+        "gruff",
+        "deep",
+        "intense",
+        "steady",
+        "rugged"
+    ],
+    "Dawn French": [
+        "F",
+        58,
+        "warm",
+        "rich",
+        "cheeky",
+        "robust",
+        "jovial"
+    ],
+    "Demian Bichir": [
+        "M",
+        52,
+        "deep",
+        "smooth",
+        "warm",
+        "intense",
+        "soulful"
+    ],
+    "Jeremy Piven": [
+        "M",
+        50,
+        "sharp",
+        "quick",
+        "gravelly",
+        "energetic",
+        "snarky"
+    ],
+    "Sean Kanan": [
+        "M",
+        49,
+        "deep",
+        "smooth",
+        "steady",
+        "warm",
+        "confident"
+    ],
+    "Tamer Hassan": [
+        "M",
+        47,
+        "gruff",
+        "deep",
+        "rugged",
+        "intense",
+        "strong"
+    ],
+    "Tom Kenny": [
+        "M",
+        53,
+        "high",
+        "zany",
+        "expressive",
+        "playful",
+        "cartoonish"
+    ],
+    "Maya Rudolph": [
+        "F",
+        43,
+        "warm",
+        "versatile",
+        "playful",
+        "rich",
+        "expressive"
+    ],
+    "Peter Facinelli": [
+        "M",
+        42,
+        "soft",
+        "clear",
+        "calm",
+        "warm",
+        "gentle"
+    ],
+    "Kiernan Shipka": [
+        "F",
+        16,
+        "light",
+        "clear",
+        "sweet",
+        "youthful",
+        "crisp"
+    ],
+    "Fred Williamson": [
+        "M",
+        78,
+        "deep",
+        "gruff",
+        "strong",
+        "rugged",
+        "authoritative"
+    ],
+    "Raoul Bova": [
+        "M",
+        44,
+        "smooth",
+        "deep",
+        "warm",
+        "charming",
+        "melodic"
+    ],
+    "Jamel Debbouze": [
+        "M",
+        40,
+        "quick",
+        "light",
+        "expressive",
+        "playful",
+        "distinct"
+    ],
+    "Violante Placido": [
+        "F",
+        39,
+        "soft",
+        "breathy",
+        "warm",
+        "gentle",
+        "alluring"
+    ],
+    "Max Schneider": [
+        "M",
+        23,
+        "bright",
+        "clear",
+        "youthful",
+        "energetic",
+        "smooth"
+    ],
+    "Jennifer Saunders": [
+        "F",
+        57,
+        "dry",
+        "witty",
+        "rich",
+        "expressive",
+        "cheeky"
+    ],
+    "Molly Shannon": [
+        "F",
+        51,
+        "bright",
+        "quirky",
+        "warm",
+        "expressive",
+        "playful"
+    ],
+    "Jack Black": [
+        "M",
+        46,
+        "wild",
+        "high",
+        "expressive",
+        "goofy",
+        "energetic"
+    ],
+    "Shiri Appleby": [
+        "F",
+        37,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "sweet"
+    ],
+    "Anthony Mackie": [
+        "M",
+        37,
+        "smooth",
+        "deep",
+        "warm",
+        "confident",
+        "lively"
+    ],
+    "Jillian Harris": [
+        "F",
+        36,
+        "bright",
+        "cheerful",
+        "clear",
+        "light",
+        "upbeat"
+    ],
+    "Mischa Barton": [
+        "F",
+        30,
+        "soft",
+        "breathy",
+        "gentle",
+        "youthful",
+        "calm"
+    ],
+    "Brian Dennehy": [
+        "M",
+        72,
+        "deep",
+        "gruff",
+        "resonant",
+        "strong",
+        "authoritative"
+    ],
+    "Lucy Punch": [
+        "F",
+        38,
+        "crisp",
+        "witty",
+        "light",
+        "expressive",
+        "playful"
+    ],
+    "Chace Crawford": [
+        "M",
+        30,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "Joanne Froggatt": [
+        "F",
+        35,
+        "soft",
+        "gentle",
+        "clear",
+        "warm",
+        "refined"
+    ],
+    "Katheryn Winnick": [
+        "F",
+        38,
+        "clear",
+        "strong",
+        "smooth",
+        "confident",
+        "crisp"
+    ],
+    "Abigail Breslin": [
+        "F",
+        19,
+        "light",
+        "sweet",
+        "clear",
+        "youthful",
+        "bright"
+    ],
+    "Hector Elizondo": [
+        "M",
+        79,
+        "deep",
+        "warm",
+        "steady",
+        "rich",
+        "soothing"
+    ],
+    "Bill Nighy": [
+        "M",
+        66,
+        "dry",
+        "distinct",
+        "wry",
+        "soft",
+        "quirky"
+    ],
+    "Vicky McClure": [
+        "F",
+        32,
+        "clear",
+        "sharp",
+        "steady",
+        "warm",
+        "expressive"
+    ],
+    "Noah Emmerich": [
+        "M",
+        51,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "gruff"
+    ],
+    "Ana Gasteyer": [
+        "F",
+        48,
+        "rich",
+        "warm",
+        "expressive",
+        "playful",
+        "strong"
+    ],
+    "Colin Donnell": [
+        "M",
+        33,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "Andre Braugher": [
+        "M",
+        52,
+        "deep",
+        "resonant",
+        "calm",
+        "authoritative",
+        "rich"
+    ],
+    "Dreama Walker": [
+        "F",
+        29,
+        "light",
+        "clear",
+        "sweet",
+        "youthful",
+        "bright"
+    ],
+    "Theo James": [
+        "M",
+        31,
+        "deep",
+        "smooth",
+        "calm",
+        "rich",
+        "charming"
+    ],
+    "Lizzy Caplan": [
+        "F",
+        33,
+        "dry",
+        "witty",
+        "soft",
+        "expressive",
+        "quirky"
+    ],
+    "Stephen Fry": [
+        "M",
+        58,
+        "rich",
+        "warm",
+        "articulate",
+        "witty",
+        "resonant"
+    ],
+    "Ashley Greene": [
+        "F",
+        29,
+        "soft",
+        "clear",
+        "gentle",
+        "youthful",
+        "sweet"
+    ],
+    "James Earl Jones": [
+        "M",
+        84,
+        "deep",
+        "booming",
+        "resonant",
+        "powerful",
+        "iconic"
+    ],
+    "Sam Worthington": [
+        "M",
+        39,
+        "gruff",
+        "deep",
+        "steady",
+        "rugged",
+        "calm"
+    ],
+    "Nelly": [
+        "M",
+        41,
+        "gravelly",
+        "smooth",
+        "deep",
+        "rhythmic",
+        "confident"
+    ],
+    "John Hawkes": [
+        "M",
+        56,
+        "raspy",
+        "soft",
+        "gravelly",
+        "intense",
+        "distinct"
+    ],
+    "Harvey Keitel": [
+        "M",
+        76,
+        "gruff",
+        "raspy",
+        "deep",
+        "intense",
+        "rugged"
+    ],
+    "Retta": [
+        "F",
+        45,
+        "bold",
+        "rich",
+        "warm",
+        "sassy",
+        "expressive"
+    ],
+    "Taraji P. Henson": [
+        "F",
+        45,
+        "strong",
+        "soulful",
+        "warm",
+        "expressive",
+        "vibrant"
+    ],
+    "Phyllis Diller": [
+        "F",
+        86,
+        "shrill",
+        "wild",
+        "raspy",
+        "zany",
+        "distinct"
+    ],
+    "Harry Treadaway": [
+        "M",
+        31,
+        "soft",
+        "clear",
+        "gentle",
+        "youthful",
+        "expressive"
+    ],
+    "Odette Annable": [
+        "F",
+        30,
+        "soft",
+        "sweet",
+        "clear",
+        "warm",
+        "gentle"
+    ],
+    "Jared Harris": [
+        "M",
+        54,
+        "rich",
+        "calm",
+        "distinct",
+        "warm",
+        "refined"
+    ],
+    "Toby Stephens": [
+        "M",
+        46,
+        "deep",
+        "smooth",
+        "expressive",
+        "warm",
+        "polished"
+    ],
+    "Sarah Drew": [
+        "F",
+        35,
+        "bright",
+        "clear",
+        "sweet",
+        "warm",
+        "youthful"
+    ],
+    "Patton Oswalt": [
+        "M",
+        47,
+        "nasal",
+        "quick",
+        "witty",
+        "expressive",
+        "quirky"
+    ],
+    "Bethany Mota": [
+        "F",
+        20,
+        "light",
+        "cheerful",
+        "clear",
+        "youthful",
+        "bright"
+    ],
+    "Jenna Fischer": [
+        "F",
+        42,
+        "soft",
+        "warm",
+        "gentle",
+        "clear",
+        "sweet"
+    ],
+    "John Turturro": [
+        "M",
+        59,
+        "gravelly",
+        "distinct",
+        "intense",
+        "warm",
+        "quirky"
+    ],
+    "Kelli Berglund": [
+        "F",
+        20,
+        "bright",
+        "clear",
+        "youthful",
+        "sweet",
+        "cheerful"
+    ],
+    "David Mamet": [
+        "M",
+        68,
+        "gruff",
+        "sharp",
+        "steady",
+        "intense",
+        "distinct"
+    ],
+    "Poppy Montgomery": [
+        "F",
+        43,
+        "soft",
+        "warm",
+        "clear",
+        "gentle",
+        "smooth"
+    ],
+    "Santiago Cabrera": [
+        "M",
+        37,
+        "deep",
+        "smooth",
+        "warm",
+        "charming",
+        "rich"
+    ],
+    "Idina Menzel": [
+        "F",
+        44,
+        "powerful",
+        "clear",
+        "rich",
+        "expressive",
+        "vibrant"
+    ],
+    "Rue McClanahan": [
+        "F",
+        67,
+        "warm",
+        "sassy",
+        "rich",
+        "playful",
+        "distinct"
+    ],
+    "John Hurt": [
+        "M",
+        68,
+        "soft",
+        "raspy",
+        "distinct",
+        "warm",
+        "haunting"
+    ],
+    "Thandie Newton": [
+        "F",
+        43,
+        "clear",
+        "smooth",
+        "gentle",
+        "warm",
+        "refined"
+    ],
+    "Richard Madden": [
+        "M",
+        29,
+        "deep",
+        "calm",
+        "smooth",
+        "warm",
+        "youthful"
+    ],
+    "Kathryn Prescott": [
+        "F",
+        24,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "sweet"
+    ],
+    "Kevin Clash": [
+        "M",
+        55,
+        "high",
+        "playful",
+        "warm",
+        "expressive",
+        "cartoonish"
+    ],
+    "John Nettles": [
+        "M",
+        72,
+        "calm",
+        "deep",
+        "steady",
+        "warm",
+        "refined"
+    ],
+    "Janina Gavankar": [
+        "F",
+        35,
+        "smooth",
+        "clear",
+        "warm",
+        "expressive",
+        "vibrant"
+    ],
+    "Ben McKenzie": [
+        "M",
+        37,
+        "deep",
+        "gruff",
+        "steady",
+        "warm",
+        "intense"
+    ],
+    "Jana Kramer": [
+        "F",
+        32,
+        "soft",
+        "sweet",
+        "clear",
+        "warm",
+        "gentle"
+    ],
+    "Greg Grunberg": [
+        "M",
+        49,
+        "warm",
+        "steady",
+        "clear",
+        "friendly",
+        "robust"
+    ],
+    "Jasika Nicole": [
+        "F",
+        35,
+        "bright",
+        "clear",
+        "warm",
+        "expressive",
+        "youthful"
+    ],
+    "Jean-Paul Belmondo": [
+        "M",
+        79,
+        "gruff",
+        "deep",
+        "raspy",
+        "rugged",
+        "charming"
+    ],
+    "S. Epatha Merkerson": [
+        "F",
+        63,
+        "deep",
+        "rich",
+        "steady",
+        "warm",
+        "authoritative"
+    ],
+    "Michael Copon": [
+        "M",
+        33,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "Michael Cudlitz": [
+        "M",
+        51,
+        "gruff",
+        "deep",
+        "steady",
+        "intense",
+        "rugged"
+    ],
+    "Jenifer Lewis": [
+        "F",
+        59,
+        "bold",
+        "rich",
+        "powerful",
+        "sassy",
+        "vibrant"
+    ],
+    "India de Beaufort": [
+        "F",
+        28,
+        "bright",
+        "clear",
+        "youthful",
+        "cheerful",
+        "expressive"
+    ],
+    "Chiwetel Ejiofor": [
+        "M",
+        38,
+        "deep",
+        "rich",
+        "calm",
+        "resonant",
+        "soulful"
+    ],
+    "Matthew Lillard": [
+        "M",
+        46,
+        "high",
+        "wild",
+        "expressive",
+        "goofy",
+        "energetic"
+    ],
+    "Seth Rogen": [
+        "M",
+        33,
+        "gravelly",
+        "deep",
+        "casual",
+        "warm",
+        "distinct"
+    ],
+    "Jeremy Sisto": [
+        "M",
+        41,
+        "soft",
+        "steady",
+        "warm",
+        "intense",
+        "calm"
+    ],
+    "Sarah Paulson": [
+        "F",
+        41,
+        "clear",
+        "expressive",
+        "warm",
+        "versatile",
+        "crisp"
+    ],
+    "Lindsey Morgan": [
+        "F",
+        26,
+        "bright",
+        "clear",
+        "youthful",
+        "warm",
+        "expressive"
+    ],
+    "David Morrissey": [
+        "M",
+        51,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "intense"
+    ],
+    "Mamie Gummer": [
+        "F",
+        32,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "sweet"
+    ],
+    "Virginia Madsen": [
+        "F",
+        54,
+        "husky",
+        "warm",
+        "smooth",
+        "rich",
+        "alluring"
+    ],
+    "Asa Butterfield": [
+        "M",
+        18,
+        "light",
+        "clear",
+        "youthful",
+        "gentle",
+        "crisp"
+    ],
+    "Taylor Lautner": [
+        "M",
+        24,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "soft"
+    ],
+    "Gloria Steinem": [
+        "F",
+        81,
+        "calm",
+        "steady",
+        "warm",
+        "clear",
+        "wise"
+    ],
+    "Peter Jackson": [
+        "M",
+        54,
+        "soft",
+        "warm",
+        "steady",
+        "friendly",
+        "distinct"
+    ],
+    "Paolo Sorrentino": [
+        "M",
+        45,
+        "deep",
+        "calm",
+        "smooth",
+        "warm",
+        "expressive"
+    ],
+    "Chris Colfer": [
+        "M",
+        25,
+        "light",
+        "clear",
+        "youthful",
+        "expressive",
+        "bright"
+    ],
+    "Guy Pearce": [
+        "M",
+        48,
+        "soft",
+        "intense",
+        "calm",
+        "distinct",
+        "smooth"
+    ],
+    "Luke Evans": [
+        "M",
+        36,
+        "deep",
+        "rich",
+        "smooth",
+        "warm",
+        "powerful"
+    ],
+    "Cheryl Ladd": [
+        "F",
+        64,
+        "soft",
+        "warm",
+        "gentle",
+        "clear",
+        "sweet"
+    ],
+    "Moon Bloodgood": [
+        "F",
+        40,
+        "smooth",
+        "warm",
+        "clear",
+        "gentle",
+        "alluring"
+    ],
+    "Nathan Fillion": [
+        "M",
+        44,
+        "warm",
+        "smooth",
+        "charming",
+        "steady",
+        "playful"
+    ],
+    "Gary Busey": [
+        "M",
+        71,
+        "gravelly",
+        "wild",
+        "deep",
+        "intense",
+        "quirky"
+    ],
+    "MyAnna Buring": [
+        "F",
+        36,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "expressive"
+    ],
+    "Raini Rodriguez": [
+        "F",
+        22,
+        "bright",
+        "cheerful",
+        "clear",
+        "youthful",
+        "lively"
+    ],
+    "Neil Gaiman": [
+        "M",
+        55,
+        "soft",
+        "calm",
+        "warm",
+        "rich",
+        "thoughtful"
+    ],
+    "Darren Criss": [
+        "M",
+        29,
+        "bright",
+        "clear",
+        "youthful",
+        "expressive",
+        "smooth"
+    ],
+    "Paddy Considine": [
+        "M",
+        42,
+        "soft",
+        "gruff",
+        "steady",
+        "intense",
+        "distinct"
+    ],
+    "Hugh Bonneville": [
+        "M",
+        52,
+        "deep",
+        "calm",
+        "warm",
+        "refined",
+        "steady"
+    ],
+    "Matthew Goode": [
+        "M",
+        37,
+        "smooth",
+        "clear",
+        "warm",
+        "charming",
+        "polished"
+    ],
+    "Sebastian De Souza": [
+        "M",
+        22,
+        "light",
+        "clear",
+        "youthful",
+        "gentle",
+        "crisp"
+    ],
+    "Matt Smith": [
+        "M",
+        33,
+        "quirky",
+        "expressive",
+        "light",
+        "witty",
+        "distinct"
+    ],
+    "Constance Zimmer": [
+        "F",
+        45,
+        "sharp",
+        "clear",
+        "strong",
+        "warm",
+        "confident"
+    ],
+    "RZA": [
+        "M",
+        46,
+        "deep",
+        "gravelly",
+        "calm",
+        "rhythmic",
+        "distinct"
+    ],
+    "Teala Dunn": [
+        "F",
+        19,
+        "bright",
+        "clear",
+        "youthful",
+        "cheerful",
+        "light"
+    ],
+    "Wendi McLendon-Covey": [
+        "F",
+        46,
+        "bright",
+        "witty",
+        "warm",
+        "expressive",
+        "playful"
+    ],
+    "Marcia Cross": [
+        "F",
+        53,
+        "clear",
+        "crisp",
+        "warm",
+        "steady",
+        "refined"
+    ],
+    "Steven Yeun": [
+        "M",
+        32,
+        "soft",
+        "clear",
+        "warm",
+        "youthful",
+        "expressive"
+    ],
+    "Riz Ahmed": [
+        "M",
+        33,
+        "crisp",
+        "clear",
+        "expressive",
+        "warm",
+        "dynamic"
+    ],
+    "Danny Pino": [
+        "M",
+        41,
+        "deep",
+        "smooth",
+        "warm",
+        "steady",
+        "charming"
+    ],
+    "Sanaa Lathan": [
+        "F",
+        44,
+        "smooth",
+        "rich",
+        "warm",
+        "clear",
+        "soulful"
+    ],
+    "Miranda Kerr": [
+        "F",
+        32,
+        "soft",
+        "sweet",
+        "clear",
+        "gentle",
+        "youthful"
+    ],
+    "Mallika Sherawat": [
+        "F",
+        39,
+        "sultry",
+        "clear",
+        "expressive",
+        "warm",
+        "vibrant"
+    ],
+    "Wanda Sykes": [
+        "F",
+        52,
+        "sharp",
+        "bold",
+        "rich",
+        "sassy",
+        "witty"
+    ],
+    "Miley Cyrus": [
+        "F",
+        23,
+        "husky",
+        "raw",
+        "youthful",
+        "expressive",
+        "distinct"
+    ],
+    "Damian Lewis": [
+        "M",
+        45,
+        "smooth",
+        "calm",
+        "warm",
+        "refined",
+        "expressive"
+    ],
+    "Danielle Campbell": [
+        "F",
+        21,
+        "light",
+        "clear",
+        "sweet",
+        "youthful",
+        "bright"
+    ],
+    "Jennifer Beals": [
+        "F",
+        52,
+        "smooth",
+        "warm",
+        "clear",
+        "gentle",
+        "alluring"
+    ],
+    "Mark Sheppard": [
+        "M",
+        51,
+        "gruff",
+        "deep",
+        "steady",
+        "intense",
+        "distinct"
+    ],
+    "Kathryn Joosten": [
+        "F",
+        63,
+        "soft",
+        "warm",
+        "gentle",
+        "clear",
+        "wise"
+    ],
+    "Jamie Foxx": [
+        "M",
+        48,
+        "smooth",
+        "rich",
+        "warm",
+        "expressive",
+        "soulful"
+    ],
+    "Cote de Pablo": [
+        "F",
+        36,
+        "sultry",
+        "clear",
+        "warm",
+        "expressive",
+        "vibrant"
+    ],
+    "Oona Chaplin": [
+        "F",
+        29,
+        "soft",
+        "gentle",
+        "clear",
+        "warm",
+        "expressive"
+    ],
+    "Jennette McCurdy": [
+        "F",
+        23,
+        "bright",
+        "clear",
+        "youthful",
+        "playful",
+        "sweet"
+    ],
+    "Romeo Miller": [
+        "M",
+        26,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "rhythmic"
+    ],
+    "Laura Dern": [
+        "F",
+        49,
+        "soft",
+        "warm",
+        "expressive",
+        "clear",
+        "distinct"
+    ],
+    "Janine Turner": [
+        "F",
+        53,
+        "clear",
+        "warm",
+        "steady",
+        "gentle",
+        "smooth"
+    ],
+    "Sam Heughan": [
+        "M",
+        35,
+        "deep",
+        "smooth",
+        "warm",
+        "charming",
+        "steady"
+    ],
+    "Gillian Jacobs": [
+        "F",
+        33,
+        "bright",
+        "witty",
+        "clear",
+        "expressive",
+        "playful"
+    ],
+    "Kate Voegele": [
+        "F",
+        29,
+        "soft",
+        "sweet",
+        "clear",
+        "youthful",
+        "gentle"
+    ],
+    "Katherine Jenkins": [
+        "F",
+        35,
+        "clear",
+        "rich",
+        "melodic",
+        "warm",
+        "powerful"
+    ],
+    "Sydney Pollack": [
+        "M",
+        64,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "thoughtful"
+    ],
+    "Julie Gonzalo": [
+        "F",
+        34,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "sweet"
+    ],
+    "John Noble": [
+        "M",
+        67,
+        "deep",
+        "rich",
+        "calm",
+        "resonant",
+        "haunting"
+    ],
+    "Jeremy Irvine": [
+        "M",
+        25,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "warm"
+    ],
+    "Sean Pertwee": [
+        "M",
+        51,
+        "gruff",
+        "deep",
+        "steady",
+        "intense",
+        "rugged"
+    ],
+    "Ken Marino": [
+        "M",
+        47,
+        "bright",
+        "quick",
+        "witty",
+        "warm",
+        "playful"
+    ],
+    "Jai Courtney": [
+        "M",
+        29,
+        "deep",
+        "gruff",
+        "steady",
+        "rugged",
+        "intense"
+    ],
+    "John Lloyd Young": [
+        "M",
+        40,
+        "smooth",
+        "clear",
+        "warm",
+        "rich",
+        "melodic"
+    ],
+    "Stan Lee": [
+        "M",
+        86,
+        "gravelly",
+        "warm",
+        "distinct",
+        "playful",
+        "iconic"
+    ],
+    "Rob Corddry": [
+        "M",
+        45,
+        "sharp",
+        "quick",
+        "witty",
+        "nasal",
+        "energetic"
+    ],
+    "Breckin Meyer": [
+        "M",
+        41,
+        "light",
+        "playful",
+        "clear",
+        "warm",
+        "quirky"
+    ],
+    "Damon Lindelof": [
+        "M",
+        42,
+        "soft",
+        "calm",
+        "steady",
+        "warm",
+        "thoughtful"
+    ],
+    "Don Rickles": [
+        "M",
+        81,
+        "sharp",
+        "raspy",
+        "quick",
+        "witty",
+        "gruff"
+    ],
+    "Paget Brewster": [
+        "F",
+        47,
+        "warm",
+        "clear",
+        "expressive",
+        "witty",
+        "smooth"
+    ],
+    "Stephen Mangan": [
+        "M",
+        47,
+        "crisp",
+        "witty",
+        "light",
+        "expressive",
+        "quirky"
+    ],
+    "Adrianne Curry": [
+        "F",
+        33,
+        "bold",
+        "clear",
+        "sassy",
+        "warm",
+        "vibrant"
+    ],
+    "Rob Dyrdek": [
+        "M",
+        41,
+        "bright",
+        "quick",
+        "energetic",
+        "clear",
+        "playful"
+    ],
+    "Rebel Wilson": [
+        "F",
+        36,
+        "bold",
+        "cheeky",
+        "warm",
+        "expressive",
+        "playful"
+    ],
+    "Jenny Slate": [
+        "F",
+        33,
+        "quirky",
+        "high",
+        "expressive",
+        "playful",
+        "distinct"
+    ],
+    "Brit Marling": [
+        "F",
+        33,
+        "soft",
+        "calm",
+        "clear",
+        "gentle",
+        "ethereal"
+    ],
+    "Carrie Ann Inaba": [
+        "F",
+        48,
+        "bright",
+        "clear",
+        "warm",
+        "steady",
+        "upbeat"
+    ],
+    "J.K. Simmons": [
+        "M",
+        61,
+        "deep",
+        "gruff",
+        "resonant",
+        "strong",
+        "authoritative"
+    ],
+    "David Koechner": [
+        "M",
+        53,
+        "loud",
+        "gruff",
+        "playful",
+        "warm",
+        "distinct"
+    ],
+    "Kelly Rutherford": [
+        "F",
+        47,
+        "smooth",
+        "clear",
+        "warm",
+        "gentle",
+        "refined"
+    ],
+    "Michael C. Hall": [
+        "M",
+        45,
+        "soft",
+        "calm",
+        "steady",
+        "intense",
+        "smooth"
+    ],
+    "Sheridan Smith": [
+        "F",
+        34,
+        "bright",
+        "clear",
+        "warm",
+        "expressive",
+        "lively"
+    ],
+    "Jennifer Carpenter": [
+        "F",
+        36,
+        "sharp",
+        "clear",
+        "intense",
+        "expressive",
+        "vibrant"
+    ],
+    "Avan Jogia": [
+        "M",
+        24,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Alison Pill": [
+        "F",
+        30,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "expressive"
+    ],
+    "Daniel Auteuil": [
+        "M",
+        66,
+        "deep",
+        "rich",
+        "calm",
+        "intense",
+        "refined"
+    ],
+    "Rob Brydon": [
+        "M",
+        50,
+        "warm",
+        "witty",
+        "light",
+        "expressive",
+        "playful"
+    ],
+    "Kelly Monaco": [
+        "F",
+        39,
+        "smooth",
+        "clear",
+        "warm",
+        "steady",
+        "alluring"
+    ],
+    "Will Mellor": [
+        "M",
+        39,
+        "deep",
+        "gruff",
+        "steady",
+        "warm",
+        "rugged"
+    ],
+    "Max Irons": [
+        "M",
+        30,
+        "smooth",
+        "deep",
+        "calm",
+        "rich",
+        "charming"
+    ],
+    "Ronda Rousey": [
+        "F",
+        29,
+        "strong",
+        "clear",
+        "gruff",
+        "confident",
+        "intense"
+    ],
+    "Chris Lowell": [
+        "M",
+        31,
+        "soft",
+        "clear",
+        "warm",
+        "youthful",
+        "gentle"
+    ],
+    "Keegan Connor Tracy": [
+        "F",
+        44,
+        "soft",
+        "warm",
+        "clear",
+        "gentle",
+        "expressive"
+    ],
+    "Lily Cole": [
+        "F",
+        28,
+        "light",
+        "soft",
+        "ethereal",
+        "clear",
+        "gentle"
+    ],
+    "Joe Flanigan": [
+        "M",
+        49,
+        "deep",
+        "steady",
+        "warm",
+        "calm",
+        "charming"
+    ],
+    "Michael Bay": [
+        "M",
+        51,
+        "gruff",
+        "sharp",
+        "energetic",
+        "steady",
+        "bold"
+    ],
+    "Jason Dohring": [
+        "M",
+        33,
+        "smooth",
+        "clear",
+        "warm",
+        "intense",
+        "steady"
+    ],
+    "Sidse Babett Knudsen": [
+        "F",
+        47,
+        "rich",
+        "calm",
+        "clear",
+        "steady",
+        "expressive"
+    ],
+    "Barbara Hershey": [
+        "F",
+        68,
+        "soft",
+        "warm",
+        "rich",
+        "gentle",
+        "soulful"
+    ],
+    "Audrina Patridge": [
+        "F",
+        30,
+        "light",
+        "clear",
+        "sweet",
+        "youthful",
+        "soft"
+    ],
+    "Bob Barker": [
+        "M",
+        92,
+        "warm",
+        "steady",
+        "clear",
+        "friendly",
+        "iconic"
+    ],
+    "Tatiana Maslany": [
+        "F",
+        30,
+        "clear",
+        "versatile",
+        "warm",
+        "expressive",
+        "crisp"
+    ],
+    "Tinsel Korey": [
+        "F",
+        35,
+        "soft",
+        "warm",
+        "gentle",
+        "clear",
+        "soulful"
+    ],
+    "Ryan McPartlin": [
+        "M",
+        40,
+        "deep",
+        "smooth",
+        "warm",
+        "charming",
+        "steady"
+    ],
+    "Uzo Aduba": [
+        "F",
+        35,
+        "rich",
+        "warm",
+        "powerful",
+        "expressive",
+        "vibrant"
+    ],
+    "James Cosmo": [
+        "M",
+        67,
+        "deep",
+        "gruff",
+        "resonant",
+        "strong",
+        "rugged"
+    ],
+    "Caitriona Balfe": [
+        "F",
+        36,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "melodic"
+    ],
+    "Vidya Balan": [
+        "F",
+        37,
+        "rich",
+        "warm",
+        "expressive",
+        "clear",
+        "soulful"
+    ],
+    "Joanna Lumley": [
+        "F",
+        69,
+        "rich",
+        "witty",
+        "crisp",
+        "warm",
+        "theatrical"
+    ],
+    "Mark Webber": [
+        "M",
+        35,
+        "soft",
+        "steady",
+        "warm",
+        "calm",
+        "distinct"
+    ],
+    "Cierra Ramirez": [
+        "F",
+        21,
+        "bright",
+        "clear",
+        "youthful",
+        "warm",
+        "expressive"
+    ],
+    "Walter Matthau": [
+        "M",
+        70,
+        "gravelly",
+        "dry",
+        "distinct",
+        "warm",
+        "gruff"
+    ],
+    "Zulay Henao": [
+        "F",
+        36,
+        "smooth",
+        "clear",
+        "warm",
+        "gentle",
+        "vibrant"
+    ],
+    "Cillian Murphy": [
+        "M",
+        39,
+        "soft",
+        "intense",
+        "calm",
+        "distinct",
+        "smooth"
+    ],
+    "John Cleese": [
+        "M",
+        76,
+        "sharp",
+        "witty",
+        "crisp",
+        "expressive",
+        "theatrical"
+    ],
+    "Matthew Morrison": [
+        "M",
+        37,
+        "smooth",
+        "clear",
+        "warm",
+        "rich",
+        "melodic"
+    ],
+    "Sofia Coppola": [
+        "F",
+        44,
+        "soft",
+        "calm",
+        "gentle",
+        "clear",
+        "subtle"
+    ],
+    "Luc Besson": [
+        "M",
+        57,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "distinct"
+    ],
+    "Dove Cameron": [
+        "F",
+        20,
+        "light",
+        "sweet",
+        "clear",
+        "youthful",
+        "bright"
+    ],
+    "Tom Arnold": [
+        "M",
+        57,
+        "gruff",
+        "loud",
+        "warm",
+        "playful",
+        "distinct"
+    ],
+    "Naseeruddin Shah": [
+        "M",
+        65,
+        "deep",
+        "rich",
+        "calm",
+        "intense",
+        "resonant"
+    ],
+    "Giuliana Rancic": [
+        "F",
+        41,
+        "bright",
+        "clear",
+        "energetic",
+        "warm",
+        "upbeat"
+    ],
+    "James Cromwell": [
+        "M",
+        76,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "authoritative"
+    ],
+    "Ryan Phillippe": [
+        "M",
+        41,
+        "smooth",
+        "clear",
+        "warm",
+        "steady",
+        "charming"
+    ],
+    "Tatyana Ali": [
+        "F",
+        37,
+        "soft",
+        "clear",
+        "warm",
+        "sweet",
+        "vibrant"
+    ],
+    "Rose McIver": [
+        "F",
+        27,
+        "bright",
+        "clear",
+        "gentle",
+        "youthful",
+        "sweet"
+    ],
+    "Linda Lavin": [
+        "F",
+        78,
+        "warm",
+        "rich",
+        "steady",
+        "expressive",
+        "distinct"
+    ],
+    "Peter Jacobson": [
+        "M",
+        51,
+        "sharp",
+        "witty",
+        "clear",
+        "warm",
+        "quick"
+    ],
+    "Marion Ross": [
+        "F",
+        87,
+        "soft",
+        "warm",
+        "gentle",
+        "clear",
+        "sweet"
+    ],
+    "Kate Mansi": [
+        "F",
+        28,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "expressive"
+    ],
+    "Diego Klattenhoff": [
+        "M",
+        36,
+        "deep",
+        "steady",
+        "calm",
+        "warm",
+        "intense"
+    ],
+    "Josh Groban": [
+        "M",
+        35,
+        "rich",
+        "smooth",
+        "warm",
+        "powerful",
+        "melodic"
+    ],
+    "Bear Grylls": [
+        "M",
+        41,
+        "crisp",
+        "energetic",
+        "steady",
+        "warm",
+        "confident"
+    ],
+    "Sam Palladio": [
+        "M",
+        29,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "melodic"
+    ],
+    "Sammi Hanratty": [
+        "F",
+        20,
+        "light",
+        "clear",
+        "sweet",
+        "youthful",
+        "bright"
+    ],
+    "Reid Scott": [
+        "M",
+        38,
+        "smooth",
+        "clear",
+        "warm",
+        "steady",
+        "charming"
+    ],
+    "Casey Affleck": [
+        "M",
+        40,
+        "soft",
+        "gravelly",
+        "calm",
+        "intense",
+        "distinct"
+    ],
+    "Hannah Spearritt": [
+        "F",
+        34,
+        "bright",
+        "clear",
+        "light",
+        "warm",
+        "youthful"
+    ],
+    "America Ferrera": [
+        "F",
+        31,
+        "warm",
+        "clear",
+        "expressive",
+        "steady",
+        "vibrant"
+    ],
+    "Chris Messina": [
+        "M",
+        41,
+        "soft",
+        "steady",
+        "warm",
+        "intense",
+        "smooth"
+    ],
+    "Susan Lucci": [
+        "F",
+        69,
+        "clear",
+        "warm",
+        "steady",
+        "expressive",
+        "refined"
+    ],
+    "Sarah Bolger": [
+        "F",
+        25,
+        "soft",
+        "clear",
+        "gentle",
+        "youthful",
+        "sweet"
+    ],
+    "Pablo Schreiber": [
+        "M",
+        37,
+        "deep",
+        "gruff",
+        "steady",
+        "intense",
+        "rugged"
+    ],
+    "Amber Riley": [
+        "F",
+        30,
+        "rich",
+        "powerful",
+        "warm",
+        "expressive",
+        "vibrant"
+    ],
+    "Freida Pinto": [
+        "F",
+        31,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "melodic"
+    ],
+    "Damon Wayans": [
+        "M",
+        55,
+        "deep",
+        "smooth",
+        "warm",
+        "playful",
+        "distinct"
+    ],
+    "Heidi Montag": [
+        "F",
+        29,
+        "light",
+        "clear",
+        "sweet",
+        "youthful",
+        "soft"
+    ],
+    "Janet Jackson": [
+        "F",
+        49,
+        "soft",
+        "breathy",
+        "warm",
+        "clear",
+        "sultry"
+    ],
+    "Ruby Dee": [
+        "F",
+        82,
+        "rich",
+        "warm",
+        "steady",
+        "soulful",
+        "expressive"
+    ],
+    "Lesley Manville": [
+        "F",
+        60,
+        "soft",
+        "clear",
+        "warm",
+        "intense",
+        "expressive"
+    ],
+    "Mira Furlan": [
+        "F",
+        56,
+        "rich",
+        "deep",
+        "calm",
+        "warm",
+        "haunting"
+    ],
+    "Gina Carano": [
+        "F",
+        33,
+        "strong",
+        "clear",
+        "gruff",
+        "confident",
+        "steady"
+    ],
+    "Sara Gilbert": [
+        "F",
+        41,
+        "soft",
+        "dry",
+        "clear",
+        "warm",
+        "witty"
+    ],
+    "Kevin Bacon": [
+        "M",
+        57,
+        "smooth",
+        "warm",
+        "steady",
+        "intense",
+        "distinct"
+    ],
+    "Golshifteh Farahani": [
+        "F",
+        32,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "exotic"
+    ],
+    "Jean Smart": [
+        "F",
+        64,
+        "rich",
+        "warm",
+        "witty",
+        "steady",
+        "expressive"
+    ],
+    "Chi McBride": [
+        "M",
+        54,
+        "deep",
+        "rich",
+        "steady",
+        "warm",
+        "authoritative"
+    ],
+    "Shay Mitchell": [
+        "F",
+        28,
+        "smooth",
+        "clear",
+        "warm",
+        "gentle",
+        "alluring"
+    ],
+    "Serinda Swan": [
+        "F",
+        31,
+        "soft",
+        "clear",
+        "warm",
+        "steady",
+        "sultry"
+    ],
+    "Steve Martin": [
+        "M",
+        70,
+        "crisp",
+        "witty",
+        "warm",
+        "playful",
+        "distinct"
+    ],
+    "Max Adler": [
+        "M",
+        30,
+        "deep",
+        "steady",
+        "warm",
+        "youthful",
+        "strong"
+    ],
+    "Sam Trammell": [
+        "M",
+        47,
+        "soft",
+        "calm",
+        "warm",
+        "steady",
+        "smooth"
+    ],
+    "Pamela Adlon": [
+        "F",
+        49,
+        "raspy",
+        "warm",
+        "expressive",
+        "witty",
+        "distinct"
+    ],
+    "Silas Weir Mitchell": [
+        "M",
+        46,
+        "gravelly",
+        "warm",
+        "intense",
+        "expressive",
+        "quirky"
+    ],
+    "Moran Atias": [
+        "F",
+        34,
+        "smooth",
+        "clear",
+        "warm",
+        "sultry",
+        "exotic"
+    ],
+    "Dan Aykroyd": [
+        "M",
+        63,
+        "deep",
+        "warm",
+        "steady",
+        "playful",
+        "distinct"
+    ],
+    "Julianne Hough": [
+        "F",
+        27,
+        "bright",
+        "clear",
+        "sweet",
+        "youthful",
+        "upbeat"
+    ],
+    "Kristen Stewart": [
+        "F",
+        25,
+        "soft",
+        "breathy",
+        "calm",
+        "intense",
+        "distinct"
+    ],
+    "Kyle MacLachlan": [
+        "M",
+        57,
+        "smooth",
+        "calm",
+        "warm",
+        "distinct",
+        "rich"
+    ],
+    "Sherri Shepherd": [
+        "F",
+        48,
+        "bold",
+        "warm",
+        "expressive",
+        "rich",
+        "lively"
+    ],
+    "Kimberly Williams-Paisley": [
+        "F",
+        44,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "sweet"
+    ],
+    "Gemma Atkinson": [
+        "F",
+        31,
+        "clear",
+        "bright",
+        "warm",
+        "steady",
+        "confident"
+    ],
+    "Alan Rickman": [
+        "M",
+        60,
+        "deep",
+        "rich",
+        "calm",
+        "resonant",
+        "iconic"
+    ],
+    "Michaela Conlin": [
+        "F",
+        37,
+        "bright",
+        "clear",
+        "warm",
+        "expressive",
+        "lively"
+    ],
+    "Alan Alda": [
+        "M",
+        80,
+        "soft",
+        "warm",
+        "steady",
+        "witty",
+        "distinct"
+    ],
+    "Tom Bergeron": [
+        "M",
+        60,
+        "warm",
+        "clear",
+        "steady",
+        "friendly",
+        "upbeat"
+    ],
+    "Dyan Cannon": [
+        "F",
+        79,
+        "soft",
+        "warm",
+        "clear",
+        "expressive",
+        "vibrant"
+    ],
+    "Ingrid Bergman": [
+        "F",
+        58,
+        "rich",
+        "warm",
+        "gentle",
+        "clear",
+        "iconic"
+    ],
+    "Joel McHale": [
+        "M",
+        44,
+        "sharp",
+        "witty",
+        "crisp",
+        "warm",
+        "energetic"
+    ],
+    "Noel Clarke": [
+        "M",
+        40,
+        "deep",
+        "steady",
+        "warm",
+        "intense",
+        "crisp"
+    ],
+    "La La Anthony": [
+        "F",
+        36,
+        "bold",
+        "clear",
+        "warm",
+        "sassy",
+        "vibrant"
+    ],
+    "Glenn Close": [
+        "F",
+        68,
+        "rich",
+        "calm",
+        "steady",
+        "intense",
+        "expressive"
+    ],
+    "Fergie": [
+        "F",
+        40,
+        "bright",
+        "clear",
+        "powerful",
+        "warm",
+        "vibrant"
+    ],
+    "Steven Berkoff": [
+        "M",
+        78,
+        "deep",
+        "gruff",
+        "intense",
+        "theatrical",
+        "resonant"
+    ],
+    "Jennifer Ehle": [
+        "F",
+        46,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "refined"
+    ],
+    "Kevin McHale": [
+        "M",
+        27,
+        "bright",
+        "clear",
+        "youthful",
+        "expressive",
+        "smooth"
+    ],
+    "Mark Gatiss": [
+        "M",
+        49,
+        "crisp",
+        "witty",
+        "calm",
+        "distinct",
+        "refined"
+    ],
+    "Jerry Trainor": [
+        "M",
+        39,
+        "light",
+        "playful",
+        "warm",
+        "expressive",
+        "goofy"
+    ],
+    "Costas Mandylor": [
+        "M",
+        50,
+        "deep",
+        "gruff",
+        "steady",
+        "warm",
+        "rugged"
+    ],
+    "Linda Evans": [
+        "F",
+        73,
+        "soft",
+        "warm",
+        "gentle",
+        "clear",
+        "smooth"
+    ],
+    "Steve Harvey": [
+        "M",
+        59,
+        "deep",
+        "warm",
+        "steady",
+        "lively",
+        "distinct"
+    ],
+    "Kelli Williams": [
+        "F",
+        45,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "steady"
+    ],
+    "Olga Kurylenko": [
+        "F",
+        36,
+        "smooth",
+        "clear",
+        "warm",
+        "gentle",
+        "sultry"
+    ],
+    "Jamie-Lynn Sigler": [
+        "F",
+        34,
+        "soft",
+        "clear",
+        "warm",
+        "sweet",
+        "expressive"
+    ],
+    "Daniel Dae Kim": [
+        "M",
+        47,
+        "deep",
+        "smooth",
+        "calm",
+        "warm",
+        "steady"
+    ],
+    "Michael Crichton": [
+        "M",
+        57,
+        "soft",
+        "calm",
+        "steady",
+        "warm",
+        "thoughtful"
+    ],
+    "Mary Lynn Rajskub": [
+        "F",
+        44,
+        "soft",
+        "dry",
+        "clear",
+        "witty",
+        "quirky"
+    ],
+    "Casey Wilson": [
+        "F",
+        35,
+        "bright",
+        "clear",
+        "warm",
+        "playful",
+        "expressive"
+    ],
+    "Judith Light": [
+        "F",
+        67,
+        "clear",
+        "warm",
+        "steady",
+        "expressive",
+        "refined"
+    ],
+    "Michael Kelly": [
+        "M",
+        46,
+        "deep",
+        "steady",
+        "calm",
+        "intense",
+        "smooth"
+    ],
+    "Caity Lotz": [
+        "F",
+        29,
+        "clear",
+        "bright",
+        "warm",
+        "steady",
+        "confident"
+    ],
+    "Brooke Burke-Charvet": [
+        "F",
+        44,
+        "smooth",
+        "clear",
+        "warm",
+        "upbeat",
+        "gentle"
+    ],
+    "Kelly Reilly": [
+        "F",
+        38,
+        "soft",
+        "clear",
+        "warm",
+        "intense",
+        "expressive"
+    ],
+    "Nancy Cartwright": [
+        "F",
+        58,
+        "high",
+        "playful",
+        "expressive",
+        "zany",
+        "cartoonish"
+    ],
+    "Simon Baker": [
+        "M",
+        46,
+        "smooth",
+        "calm",
+        "warm",
+        "charming",
+        "steady"
+    ],
+    "Derek Jacobi": [
+        "M",
+        77,
+        "rich",
+        "calm",
+        "steady",
+        "resonant",
+        "theatrical"
+    ],
+    "Mark Harmon": [
+        "M",
+        64,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "authoritative"
+    ],
+    "Sharni Vinson": [
+        "F",
+        32,
+        "clear",
+        "bright",
+        "warm",
+        "steady",
+        "vibrant"
+    ],
+    "Sarah Gadon": [
+        "F",
+        28,
+        "soft",
+        "clear",
+        "gentle",
+        "youthful",
+        "sweet"
+    ],
+    "Shohreh Aghdashloo": [
+        "F",
+        63,
+        "deep",
+        "rich",
+        "warm",
+        "husky",
+        "exotic"
+    ],
+    "Gaspard Ulliel": [
+        "M",
+        28,
+        "soft",
+        "smooth",
+        "calm",
+        "warm",
+        "charming"
+    ],
+    "Cristin Milioti": [
+        "F",
+        30,
+        "bright",
+        "clear",
+        "warm",
+        "expressive",
+        "sweet"
+    ],
+    "Irina Shayk": [
+        "F",
+        30,
+        "smooth",
+        "clear",
+        "warm",
+        "sultry",
+        "gentle"
+    ],
+    "Sam Raimi": [
+        "M",
+        56,
+        "soft",
+        "calm",
+        "steady",
+        "warm",
+        "distinct"
+    ],
+    "Blake Shelton": [
+        "M",
+        39,
+        "deep",
+        "warm",
+        "steady",
+        "drawling",
+        "charming"
+    ],
+    "Felicia Day": [
+        "F",
+        36,
+        "bright",
+        "clear",
+        "warm",
+        "playful",
+        "quirky"
+    ],
+    "Olivia Colman": [
+        "F",
+        42,
+        "soft",
+        "warm",
+        "expressive",
+        "clear",
+        "versatile"
+    ],
+    "Agyness Deyn": [
+        "F",
+        33,
+        "soft",
+        "clear",
+        "gentle",
+        "youthful",
+        "ethereal"
+    ],
+    "John Lasseter": [
+        "M",
+        59,
+        "warm",
+        "steady",
+        "clear",
+        "friendly",
+        "enthusiastic"
+    ],
+    "Glen Hansard": [
+        "M",
+        45,
+        "gravelly",
+        "warm",
+        "soulful",
+        "intense",
+        "rich"
+    ],
+    "Vanessa Lachey": [
+        "F",
+        35,
+        "smooth",
+        "clear",
+        "warm",
+        "gentle",
+        "upbeat"
+    ],
+    "Michael Socha": [
+        "M",
+        28,
+        "soft",
+        "gruff",
+        "steady",
+        "warm",
+        "distinct"
+    ],
+    "Lucie Arnaz": [
+        "F",
+        64,
+        "warm",
+        "clear",
+        "steady",
+        "expressive",
+        "rich"
+    ],
+    "Titus Welliver": [
+        "M",
+        54,
+        "deep",
+        "gruff",
+        "steady",
+        "intense",
+        "rugged"
+    ],
+    "Steven Moffat": [
+        "M",
+        54,
+        "crisp",
+        "witty",
+        "calm",
+        "steady",
+        "distinct"
+    ],
+    "Nicole Richie": [
+        "F",
+        34,
+        "light",
+        "clear",
+        "sassy",
+        "youthful",
+        "playful"
+    ],
+    "Heather Graham": [
+        "F",
+        46,
+        "soft",
+        "breathy",
+        "warm",
+        "gentle",
+        "sweet"
+    ],
+    "Katy Perry": [
+        "F",
+        31,
+        "bright",
+        "clear",
+        "powerful",
+        "warm",
+        "vibrant"
+    ],
+    "Jensen Ackles": [
+        "M",
+        38,
+        "deep",
+        "smooth",
+        "warm",
+        "steady",
+        "charming"
+    ],
+    "Senta Berger": [
+        "F",
+        74,
+        "rich",
+        "warm",
+        "steady",
+        "gentle",
+        "refined"
+    ],
+    "Ray Winstone": [
+        "M",
+        59,
+        "gruff",
+        "deep",
+        "rugged",
+        "intense",
+        "distinct"
+    ],
+    "Jacqueline Emerson": [
+        "F",
+        21,
+        "bright",
+        "clear",
+        "youthful",
+        "warm",
+        "expressive"
+    ],
+    "Zachary Gordon": [
+        "M",
+        18,
+        "light",
+        "clear",
+        "youthful",
+        "playful",
+        "bright"
+    ],
+    "Stephen Lang": [
+        "M",
+        63,
+        "deep",
+        "gruff",
+        "intense",
+        "resonant",
+        "strong"
+    ],
+    "Thomas Lennon": [
+        "M",
+        45,
+        "sharp",
+        "witty",
+        "clear",
+        "warm",
+        "quirky"
+    ],
+    "Regina Hall": [
+        "F",
+        45,
+        "warm",
+        "clear",
+        "sassy",
+        "expressive",
+        "vibrant"
+    ],
+    "Charles S. Dutton": [
+        "M",
+        65,
+        "deep",
+        "rich",
+        "gruff",
+        "warm",
+        "authoritative"
+    ],
+    "Kate Walsh": [
+        "F",
+        48,
+        "smooth",
+        "clear",
+        "warm",
+        "steady",
+        "confident"
+    ],
+    "Katherine Heigl": [
+        "F",
+        37,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "expressive"
+    ],
+    "Aneurin Barnard": [
+        "M",
+        28,
+        "soft",
+        "clear",
+        "youthful",
+        "warm",
+        "intense"
+    ],
+    "Guillaume Canet": [
+        "M",
+        42,
+        "deep",
+        "smooth",
+        "calm",
+        "warm",
+        "charming"
+    ],
+    "Lea Salonga": [
+        "F",
+        45,
+        "clear",
+        "rich",
+        "powerful",
+        "warm",
+        "melodic"
+    ],
+    "Manish Dayal": [
+        "M",
+        32,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "Cher": [
+        "F",
+        69,
+        "deep",
+        "husky",
+        "warm",
+        "distinct",
+        "iconic"
+    ],
+    "Gregg Sulkin": [
+        "M",
+        23,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Rhys Ifans": [
+        "M",
+        48,
+        "gravelly",
+        "warm",
+        "distinct",
+        "intense",
+        "quirky"
+    ],
+    "Celia Imrie": [
+        "F",
+        63,
+        "rich",
+        "warm",
+        "crisp",
+        "expressive",
+        "witty"
+    ],
+    "Will Yun Lee": [
+        "M",
+        44,
+        "deep",
+        "smooth",
+        "steady",
+        "warm",
+        "intense"
+    ],
+    "Dave Bautista": [
+        "M",
+        47,
+        "deep",
+        "gruff",
+        "steady",
+        "strong",
+        "rugged"
+    ],
+    "Armand Assante": [
+        "M",
+        66,
+        "deep",
+        "rich",
+        "steady",
+        "warm",
+        "intense"
+    ],
+    "Derek Theler": [
+        "M",
+        29,
+        "deep",
+        "smooth",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "Sally Hawkins": [
+        "F",
+        39,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "expressive"
+    ],
+    "Leslie Bibb": [
+        "F",
+        41,
+        "bright",
+        "clear",
+        "warm",
+        "playful",
+        "sweet"
+    ],
+    "Candice Patton": [
+        "F",
+        27,
+        "clear",
+        "bright",
+        "warm",
+        "expressive",
+        "vibrant"
+    ],
+    "Lisa Edelstein": [
+        "F",
+        49,
+        "smooth",
+        "clear",
+        "warm",
+        "witty",
+        "confident"
+    ],
+    "Joss Whedon": [
+        "M",
+        51,
+        "soft",
+        "calm",
+        "steady",
+        "witty",
+        "distinct"
+    ],
+    "Jonathan Rhys Meyers": [
+        "M",
+        38,
+        "smooth",
+        "intense",
+        "calm",
+        "warm",
+        "rich"
+    ],
+    "Alexa Davalos": [
+        "F",
+        33,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "sultry"
+    ],
+    "Mark Strong": [
+        "M",
+        52,
+        "deep",
+        "calm",
+        "steady",
+        "intense",
+        "resonant"
+    ],
+    "Mary Elizabeth Winstead": [
+        "F",
+        31,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "expressive"
+    ],
+    "Kristen Bell": [
+        "F",
+        35,
+        "bright",
+        "clear",
+        "warm",
+        "playful",
+        "sweet"
+    ],
+    "Pat Monahan": [
+        "M",
+        47,
+        "smooth",
+        "warm",
+        "rich",
+        "expressive",
+        "melodic"
+    ],
+    "Kristian Alfonso": [
+        "F",
+        52,
+        "smooth",
+        "clear",
+        "warm",
+        "steady",
+        "alluring"
+    ],
+    "Kenton Duty": [
+        "M",
+        20,
+        "light",
+        "clear",
+        "youthful",
+        "bright",
+        "playful"
+    ],
+    "Ranbir Kapoor": [
+        "M",
+        33,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "Kate Flannery": [
+        "F",
+        51,
+        "bright",
+        "warm",
+        "expressive",
+        "playful",
+        "distinct"
+    ],
+    "Jessica De Gouw": [
+        "F",
+        28,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "smooth"
+    ],
+    "David Zayas": [
+        "M",
+        53,
+        "deep",
+        "gruff",
+        "steady",
+        "warm",
+        "intense"
+    ],
+    "Gilles Marini": [
+        "M",
+        40,
+        "smooth",
+        "deep",
+        "warm",
+        "charming",
+        "exotic"
+    ],
+    "Scott Speedman": [
+        "M",
+        40,
+        "deep",
+        "smooth",
+        "calm",
+        "warm",
+        "steady"
+    ],
+    "Debra Jo Rupp": [
+        "F",
+        65,
+        "bright",
+        "clear",
+        "warm",
+        "playful",
+        "distinct"
+    ],
+    "David Giuntoli": [
+        "M",
+        35,
+        "smooth",
+        "clear",
+        "warm",
+        "steady",
+        "charming"
+    ],
+    "Louis Theroux": [
+        "M",
+        45,
+        "soft",
+        "calm",
+        "witty",
+        "distinct",
+        "curious"
+    ],
+    "Mark Feuerstein": [
+        "M",
+        44,
+        "bright",
+        "clear",
+        "warm",
+        "energetic",
+        "playful"
+    ],
+    "Melissa Leo": [
+        "F",
+        55,
+        "gravelly",
+        "warm",
+        "intense",
+        "rich",
+        "expressive"
+    ],
+    "Noel Fielding": [
+        "M",
+        42,
+        "soft",
+        "quirky",
+        "expressive",
+        "playful",
+        "distinct"
+    ],
+    "Kathryn McCormick": [
+        "F",
+        25,
+        "bright",
+        "clear",
+        "youthful",
+        "warm",
+        "vibrant"
+    ],
+    "Robert Sheehan": [
+        "M",
+        28,
+        "light",
+        "playful",
+        "expressive",
+        "warm",
+        "quirky"
+    ],
+    "Niall Horan": [
+        "M",
+        22,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "melodic"
+    ],
+    "Shemar Moore": [
+        "M",
+        45,
+        "deep",
+        "smooth",
+        "warm",
+        "charming",
+        "steady"
+    ],
+    "Andrew Garfield": [
+        "M",
+        32,
+        "soft",
+        "clear",
+        "warm",
+        "expressive",
+        "youthful"
+    ],
+    "Anne Hathaway": [
+        "F",
+        33,
+        "clear",
+        "warm",
+        "gentle",
+        "expressive",
+        "sweet"
+    ],
+    "Geena Davis": [
+        "F",
+        60,
+        "rich",
+        "warm",
+        "steady",
+        "clear",
+        "confident"
+    ],
+    "Ralf Little": [
+        "M",
+        36,
+        "crisp",
+        "warm",
+        "steady",
+        "playful",
+        "distinct"
+    ],
+    "Sterling Knight": [
+        "M",
+        27,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Wesley Snipes": [
+        "M",
+        53,
+        "deep",
+        "gruff",
+        "steady",
+        "intense",
+        "smooth"
+    ],
+    "Drake Bell": [
+        "M",
+        29,
+        "light",
+        "clear",
+        "youthful",
+        "playful",
+        "bright"
+    ],
+    "Jon Favreau": [
+        "M",
+        49,
+        "warm",
+        "steady",
+        "gravelly",
+        "friendly",
+        "distinct"
+    ],
+    "Michelle Stafford": [
+        "F",
+        50,
+        "rich",
+        "clear",
+        "warm",
+        "steady",
+        "expressive"
+    ],
+    "Padma Lakshmi": [
+        "F",
+        45,
+        "smooth",
+        "warm",
+        "sultry",
+        "clear",
+        "exotic"
+    ],
+    "Jim Caviezel": [
+        "M",
+        47,
+        "deep",
+        "calm",
+        "intense",
+        "warm",
+        "resonant"
+    ],
+    "Suraj Sharma": [
+        "M",
+        22,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "warm"
+    ],
+    "Jack Reynor": [
+        "M",
+        24,
+        "smooth",
+        "deep",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Marc Blucas": [
+        "M",
+        44,
+        "deep",
+        "steady",
+        "warm",
+        "calm",
+        "smooth"
+    ],
+    "Hal Sparks": [
+        "M",
+        46,
+        "bright",
+        "quick",
+        "witty",
+        "clear",
+        "energetic"
+    ],
+    "Louis C.K.": [
+        "M",
+        48,
+        "gravelly",
+        "dry",
+        "warm",
+        "witty",
+        "distinct"
+    ],
+    "Martin Clunes": [
+        "M",
+        54,
+        "deep",
+        "warm",
+        "steady",
+        "gentle",
+        "quirky"
+    ],
+    "NeNe Leakes": [
+        "F",
+        48,
+        "bold",
+        "rich",
+        "sassy",
+        "warm",
+        "vibrant"
+    ],
+    "Burt Reynolds": [
+        "M",
+        73,
+        "gruff",
+        "deep",
+        "warm",
+        "rugged",
+        "iconic"
+    ],
+    "John Goodman": [
+        "M",
+        63,
+        "deep",
+        "rich",
+        "warm",
+        "gruff",
+        "resonant"
+    ],
+    "Chris Martin": [
+        "M",
+        39,
+        "smooth",
+        "clear",
+        "warm",
+        "melodic",
+        "expressive"
+    ],
+    "Sherri Saum": [
+        "F",
+        41,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "soulful"
+    ],
+    "Jon Pertwee": [
+        "M",
+        67,
+        "rich",
+        "theatrical",
+        "warm",
+        "steady",
+        "distinct"
+    ],
+    "Mario Casas": [
+        "M",
+        29,
+        "deep",
+        "smooth",
+        "warm",
+        "charming",
+        "intense"
+    ],
+    "Ralph Macchio": [
+        "M",
+        54,
+        "soft",
+        "clear",
+        "warm",
+        "youthful",
+        "steady"
+    ],
+    "Marion Cotillard": [
+        "F",
+        40,
+        "soft",
+        "breathy",
+        "warm",
+        "gentle",
+        "expressive"
+    ],
+    "Rik Mayall": [
+        "M",
+        47,
+        "wild",
+        "sharp",
+        "expressive",
+        "playful",
+        "distinct"
+    ],
+    "Jason Segel": [
+        "M",
+        36,
+        "warm",
+        "steady",
+        "light",
+        "playful",
+        "charming"
+    ],
+    "Dylan McDermott": [
+        "M",
+        54,
+        "smooth",
+        "deep",
+        "calm",
+        "warm",
+        "intense"
+    ],
+    "Katherine McNamara": [
+        "F",
+        20,
+        "bright",
+        "clear",
+        "youthful",
+        "sweet",
+        "vibrant"
+    ],
+    "Milla Jovovich": [
+        "F",
+        40,
+        "clear",
+        "steady",
+        "warm",
+        "intense",
+        "smooth"
+    ],
+    "Drea de Matteo": [
+        "F",
+        44,
+        "raspy",
+        "warm",
+        "gravelly",
+        "sassy",
+        "distinct"
+    ],
+    "Taylor Kitsch": [
+        "M",
+        34,
+        "deep",
+        "smooth",
+        "calm",
+        "warm",
+        "rugged"
+    ],
+    "Will Arnett": [
+        "M",
+        45,
+        "deep",
+        "gravelly",
+        "dry",
+        "witty",
+        "distinct"
+    ],
+    "Tamara Tunie": [
+        "F",
+        57,
+        "rich",
+        "warm",
+        "steady",
+        "soulful",
+        "expressive"
+    ],
+    "Bruce Boxleitner": [
+        "M",
+        65,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "resonant"
+    ],
+    "Jacob Latimore": [
+        "M",
+        19,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "bright"
+    ],
+    "Karoline Herfurth": [
+        "F",
+        31,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "melodic"
+    ],
+    "Teri Hatcher": [
+        "F",
+        51,
+        "clear",
+        "warm",
+        "steady",
+        "expressive",
+        "smooth"
+    ],
+    "John Terry": [
+        "M",
+        65,
+        "deep",
+        "rich",
+        "steady",
+        "warm",
+        "authoritative"
+    ],
+    "Mindy Kaling": [
+        "F",
+        36,
+        "bright",
+        "clear",
+        "witty",
+        "warm",
+        "playful"
+    ],
+    "Charles Dance": [
+        "M",
+        69,
+        "deep",
+        "rich",
+        "calm",
+        "intense",
+        "resonant"
+    ],
+    "Brett Davern": [
+        "M",
+        23,
+        "light",
+        "clear",
+        "youthful",
+        "warm",
+        "playful"
+    ],
+    "Viggo Mortensen": [
+        "M",
+        57,
+        "soft",
+        "deep",
+        "calm",
+        "intense",
+        "distinct"
+    ],
+    "Melissa Peterman": [
+        "F",
+        44,
+        "bright",
+        "warm",
+        "playful",
+        "clear",
+        "lively"
+    ],
+    "Randolph Mantooth": [
+        "M",
+        70,
+        "deep",
+        "steady",
+        "warm",
+        "gruff",
+        "rugged"
+    ],
+    "Jeremy Clarkson": [
+        "M",
+        55,
+        "gruff",
+        "sharp",
+        "witty",
+        "loud",
+        "distinct"
+    ],
+    "Michelle Krusiec": [
+        "F",
+        41,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "expressive"
+    ],
+    "Marcia Gay Harden": [
+        "F",
+        56,
+        "rich",
+        "warm",
+        "steady",
+        "intense",
+        "expressive"
+    ],
+    "Armie Hammer": [
+        "M",
+        29,
+        "deep",
+        "smooth",
+        "calm",
+        "warm",
+        "charming"
+    ],
+    "Shahid Kapoor": [
+        "M",
+        35,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "Jemaine Clement": [
+        "M",
+        42,
+        "dry",
+        "witty",
+        "deep",
+        "playful",
+        "distinct"
+    ],
+    "Andrew Dice Clay": [
+        "M",
+        58,
+        "gruff",
+        "loud",
+        "raspy",
+        "bold",
+        "distinct"
+    ],
+    "Melissa Rauch": [
+        "F",
+        35,
+        "high",
+        "clear",
+        "playful",
+        "bright",
+        "distinct"
+    ],
+    "David Warner": [
+        "M",
+        71,
+        "rich",
+        "calm",
+        "steady",
+        "resonant",
+        "theatrical"
+    ],
+    "Miranda Lambert": [
+        "F",
+        32,
+        "warm",
+        "clear",
+        "rich",
+        "soulful",
+        "vibrant"
+    ],
+    "Thomas Gibson": [
+        "M",
+        53,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "smooth"
+    ],
+    "Jesse Eisenberg": [
+        "M",
+        32,
+        "soft",
+        "quick",
+        "witty",
+        "clear",
+        "quirky"
+    ],
+    "Nikolaj Coster-Waldau": [
+        "M",
+        45,
+        "deep",
+        "smooth",
+        "calm",
+        "warm",
+        "charming"
+    ],
+    "Tilda Swinton": [
+        "F",
+        55,
+        "soft",
+        "clear",
+        "ethereal",
+        "intense",
+        "distinct"
+    ],
+    "Tom Ford": [
+        "M",
+        54,
+        "smooth",
+        "calm",
+        "warm",
+        "steady",
+        "refined"
+    ],
+    "Mena Suvari": [
+        "F",
+        37,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "sweet"
+    ],
+    "Danielle Panabaker": [
+        "F",
+        28,
+        "bright",
+        "clear",
+        "youthful",
+        "warm",
+        "sweet"
+    ],
+    "Luke Newberry": [
+        "M",
+        26,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "warm"
+    ],
+    "Tanya Tate": [
+        "F",
+        36,
+        "smooth",
+        "clear",
+        "warm",
+        "sultry",
+        "confident"
+    ],
+    "Alan Tudyk": [
+        "M",
+        45,
+        "warm",
+        "clear",
+        "playful",
+        "witty",
+        "distinct"
+    ],
+    "Keeley Hawes": [
+        "F",
+        40,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "refined"
+    ],
+    "Geri Halliwell": [
+        "F",
+        43,
+        "bright",
+        "clear",
+        "warm",
+        "playful",
+        "vibrant"
+    ],
+    "Dan Fogler": [
+        "M",
+        39,
+        "warmwillowy",
+        "warm",
+        "gruff",
+        "playful",
+        "distinct"
+    ],
+    "Denise Crosby": [
+        "F",
+        58,
+        "soft",
+        "clear",
+        "warm",
+        "steady",
+        "gentle"
+    ],
+    "Bridget Moynahan": [
+        "F",
+        44,
+        "smooth",
+        "clear",
+        "warm",
+        "calm",
+        "sultry"
+    ],
+    "Kathy Griffin": [
+        "F",
+        55,
+        "sharp",
+        "witty",
+        "loud",
+        "bold",
+        "distinct"
+    ],
+    "Usher Raymond": [
+        "M",
+        37,
+        "smooth",
+        "clear",
+        "warm",
+        "soulful",
+        "vibrant"
+    ],
+    "Ron Perlman": [
+        "M",
+        65,
+        "deep",
+        "gruff",
+        "rugged",
+        "intense",
+        "resonant"
+    ],
+    "Anton Yelchin": [
+        "M",
+        18,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "bright"
+    ],
+    "Diane Kruger": [
+        "F",
+        39,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "refined"
+    ],
+    "Sienna Guillory": [
+        "F",
+        40,
+        "smooth",
+        "clear",
+        "warm",
+        "gentle",
+        "alluring"
+    ],
+    "Jim Broadbent": [
+        "M",
+        66,
+        "rich",
+        "warm",
+        "steady",
+        "expressive",
+        "distinct"
+    ],
+    "Zachary Quinto": [
+        "M",
+        38,
+        "deep",
+        "calm",
+        "steady",
+        "intense",
+        "smooth"
+    ],
+    "Jon Huertas": [
+        "M",
+        46,
+        "deep",
+        "smooth",
+        "warm",
+        "steady",
+        "charming"
+    ],
+    "Michael Shannon": [
+        "M",
+        41,
+        "deep",
+        "gruff",
+        "intense",
+        "steady",
+        "distinct"
+    ],
+    "Sarah Hyland": [
+        "F",
+        25,
+        "bright",
+        "clear",
+        "youthful",
+        "sweet",
+        "lively"
+    ],
+    "Steven R. McQueen": [
+        "M",
+        27,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Alison Arngrim": [
+        "F",
+        54,
+        "clear",
+        "warm",
+        "steady",
+        "expressive",
+        "distinct"
+    ],
+    "B.J. Novak": [
+        "M",
+        36,
+        "soft",
+        "witty",
+        "clear",
+        "dry",
+        "quirky"
+    ],
+    "Hayley Marie Norman": [
+        "F",
+        31,
+        "bright",
+        "clear",
+        "warm",
+        "vibrant",
+        "expressive"
+    ],
+    "Jet Li": [
+        "M",
+        52,
+        "soft",
+        "calm",
+        "steady",
+        "intense",
+        "distinct"
+    ],
+    "Mya": [
+        "F",
+        36,
+        "smooth",
+        "clear",
+        "warm",
+        "sultry",
+        "vibrant"
+    ],
+    "Tyler Blackburn": [
+        "M",
+        29,
+        "deep",
+        "smooth",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Stevie Wonder": [
+        "M",
+        65,
+        "rich",
+        "warm",
+        "soulful",
+        "expressive",
+        "iconic"
+    ],
+    "Carrie Underwood": [
+        "F",
+        33,
+        "clear",
+        "powerful",
+        "warm",
+        "rich",
+        "vibrant"
+    ],
+    "Ben Whishaw": [
+        "M",
+        35,
+        "soft",
+        "clear",
+        "gentle",
+        "intense",
+        "distinct"
+    ],
+    "Iain Glen": [
+        "M",
+        54,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "resonant"
+    ],
+    "Donna Murphy": [
+        "F",
+        57,
+        "rich",
+        "warm",
+        "expressive",
+        "steady",
+        "powerful"
+    ],
+    "Christina Hendricks": [
+        "F",
+        40,
+        "soft",
+        "husky",
+        "warm",
+        "sultry",
+        "rich"
+    ],
+    "Ginger Rogers": [
+        "F",
+        74,
+        "clear",
+        "bright",
+        "warm",
+        "playful",
+        "iconic"
+    ],
+    "Olivia Munn": [
+        "F",
+        35,
+        "bright",
+        "clear",
+        "warm",
+        "witty",
+        "vibrant"
+    ],
+    "Hilary Swank": [
+        "F",
+        41,
+        "clear",
+        "steady",
+        "warm",
+        "intense",
+        "expressive"
+    ],
+    "Paul Giamatti": [
+        "M",
+        48,
+        "gravelly",
+        "warm",
+        "intense",
+        "distinct",
+        "quirky"
+    ],
+    "Thomas Haden Church": [
+        "M",
+        55,
+        "deep",
+        "gruff",
+        "steady",
+        "warm",
+        "rugged"
+    ],
+    "Allison Williams": [
+        "F",
+        27,
+        "clear",
+        "soft",
+        "gentle",
+        "youthful",
+        "refined"
+    ],
+    "Jamie Chung": [
+        "F",
+        32,
+        "smooth",
+        "clear",
+        "warm",
+        "gentle",
+        "vibrant"
+    ],
+    "Nicki Minaj": [
+        "F",
+        33,
+        "bold",
+        "sharp",
+        "expressive",
+        "vibrant",
+        "distinct"
+    ],
+    "Nina Hoss": [
+        "F",
+        40,
+        "soft",
+        "clear",
+        "warm",
+        "intense",
+        "refined"
+    ],
+    "Ted Danson": [
+        "M",
+        68,
+        "deep",
+        "calm",
+        "warm",
+        "steady",
+        "friendly"
+    ],
+    "Charice": [
+        "F",
+        23,
+        "clear",
+        "powerful",
+        "youthful",
+        "warm",
+        "vibrant"
+    ],
+    "Aaron Tveit": [
+        "M",
+        32,
+        "smooth",
+        "clear",
+        "warm",
+        "rich",
+        "melodic"
+    ],
+    "Garry Marshall": [
+        "M",
+        72,
+        "warm",
+        "steady",
+        "gruff",
+        "friendly",
+        "distinct"
+    ],
+    "Jorja Fox": [
+        "F",
+        47,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "steady"
+    ],
+    "Sophie Okonedo": [
+        "F",
+        47,
+        "rich",
+        "warm",
+        "expressive",
+        "steady",
+        "soulful"
+    ],
+    "Christina Ricci": [
+        "F",
+        36,
+        "soft",
+        "clear",
+        "gentle",
+        "intense",
+        "distinct"
+    ],
+    "Rachel McAdams": [
+        "F",
+        37,
+        "clear",
+        "warm",
+        "gentle",
+        "expressive",
+        "sweet"
+    ],
+    "Taylor Momsen": [
+        "F",
+        22,
+        "husky",
+        "raw",
+        "youthful",
+        "intense",
+        "distinct"
+    ],
+    "Josh Peck": [
+        "M",
+        29,
+        "light",
+        "clear",
+        "playful",
+        "warm",
+        "youthful"
+    ],
+    "Leonor Watling": [
+        "F",
+        40,
+        "soft",
+        "warm",
+        "sultry",
+        "gentle",
+        "expressive"
+    ],
+    "Robbie Amell": [
+        "M",
+        27,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Kiefer Sutherland": [
+        "M",
+        49,
+        "gravelly",
+        "deep",
+        "intense",
+        "warm",
+        "distinct"
+    ],
+    "Hans Zimmer": [
+        "M",
+        58,
+        "soft",
+        "calm",
+        "steady",
+        "warm",
+        "thoughtful"
+    ],
+    "Prince": [
+        "M",
+        48,
+        "smooth",
+        "high",
+        "expressive",
+        "vibrant",
+        "iconic"
+    ],
+    "Lavell Crawford": [
+        "M",
+        47,
+        "deep",
+        "loud",
+        "warm",
+        "gruff",
+        "lively"
+    ],
+    "Simon Callow": [
+        "M",
+        66,
+        "rich",
+        "theatrical",
+        "warm",
+        "resonant",
+        "expressive"
+    ],
+    "Jordan Gavaris": [
+        "M",
+        26,
+        "bright",
+        "clear",
+        "youthful",
+        "expressive",
+        "vibrant"
+    ],
+    "Mary-Louise Parker": [
+        "F",
+        51,
+        "soft",
+        "clear",
+        "warm",
+        "intense",
+        "witty"
+    ],
+    "David Letterman": [
+        "M",
+        68,
+        "gruff",
+        "dry",
+        "witty",
+        "warm",
+        "distinct"
+    ],
+    "Jonathan Jackson": [
+        "M",
+        33,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "melodic"
+    ],
+    "Skylar Astin": [
+        "M",
+        28,
+        "bright",
+        "clear",
+        "youthful",
+        "warm",
+        "playful"
+    ],
+    "Amy Schumer": [
+        "F",
+        34,
+        "bold",
+        "witty",
+        "clear",
+        "warm",
+        "lively"
+    ],
+    "Irrfan Khan": [
+        "M",
+        44,
+        "deep",
+        "calm",
+        "warm",
+        "intense",
+        "resonant"
+    ],
+    "Megan Fox": [
+        "F",
+        29,
+        "soft",
+        "breathy",
+        "warm",
+        "sultry",
+        "gentle"
+    ],
+    "Samira Wiley": [
+        "F",
+        28,
+        "clear",
+        "warm",
+        "steady",
+        "expressive",
+        "vibrant"
+    ],
+    "John Mulaney": [
+        "M",
+        33,
+        "crisp",
+        "witty",
+        "clear",
+        "bright",
+        "quirky"
+    ],
+    "Richard Dean Anderson": [
+        "M",
+        66,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "charming"
+    ],
+    "Russell Tovey": [
+        "M",
+        34,
+        "soft",
+        "clear",
+        "warm",
+        "steady",
+        "distinct"
+    ],
+    "Toby Jones": [
+        "M",
+        49,
+        "soft",
+        "clear",
+        "warm",
+        "intense",
+        "quirky"
+    ],
+    "Dave Foley": [
+        "M",
+        53,
+        "light",
+        "witty",
+        "clear",
+        "warm",
+        "playful"
+    ],
+    "Diablo Cody": [
+        "F",
+        37,
+        "sharp",
+        "witty",
+        "clear",
+        "warm",
+        "distinct"
+    ],
+    "Rene Auberjonois": [
+        "M",
+        70,
+        "rich",
+        "calm",
+        "steady",
+        "warm",
+        "theatrical"
+    ],
+    "Wendy Williams": [
+        "F",
+        51,
+        "bold",
+        "loud",
+        "warm",
+        "sassy",
+        "vibrant"
+    ],
+    "Kristen Wiig": [
+        "F",
+        42,
+        "soft",
+        "witty",
+        "warm",
+        "playful",
+        "versatile"
+    ],
+    "David Kross": [
+        "M",
+        25,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "warm"
+    ],
+    "Chris Pine": [
+        "M",
+        35,
+        "deep",
+        "smooth",
+        "warm",
+        "charming",
+        "steady"
+    ],
+    "Natalie Zea": [
+        "F",
+        41,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "sultry"
+    ],
+    "Antonio Cupo": [
+        "M",
+        38,
+        "deep",
+        "smooth",
+        "warm",
+        "steady",
+        "charming"
+    ],
+    "Tim Daly": [
+        "M",
+        60,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "smooth"
+    ],
+    "Domhnall Gleeson": [
+        "M",
+        32,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "distinct"
+    ],
+    "CCH Pounder": [
+        "F",
+        63,
+        "rich",
+        "deep",
+        "warm",
+        "steady",
+        "authoritative"
+    ],
+    "Jesse Spencer": [
+        "M",
+        37,
+        "smooth",
+        "clear",
+        "warm",
+        "youthful",
+        "charming"
+    ],
+    "James Roday": [
+        "M",
+        39,
+        "bright",
+        "clear",
+        "witty",
+        "warm",
+        "playful"
+    ],
+    "Will Forte": [
+        "M",
+        45,
+        "light",
+        "witty",
+        "clear",
+        "playful",
+        "quirky"
+    ],
+    "Oscar Isaac": [
+        "M",
+        37,
+        "deep",
+        "smooth",
+        "warm",
+        "intense",
+        "rich"
+    ],
+    "Jon Lovitz": [
+        "M",
+        58,
+        "nasal",
+        "witty",
+        "loud",
+        "distinct",
+        "playful"
+    ],
+    "Fanny Ardant": [
+        "F",
+        66,
+        "rich",
+        "warm",
+        "sultry",
+        "expressive",
+        "refined"
+    ],
+    "Sam Neill": [
+        "M",
+        68,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "resonant"
+    ],
+    "Kevin Smith": [
+        "M",
+        45,
+        "gravelly",
+        "warm",
+        "steady",
+        "witty",
+        "distinct"
+    ],
+    "Sarah Wayne Callies": [
+        "F",
+        38,
+        "soft",
+        "clear",
+        "warm",
+        "intense",
+        "steady"
+    ],
+    "Jen Lilley": [
+        "F",
+        31,
+        "bright",
+        "clear",
+        "warm",
+        "sweet",
+        "vibrant"
+    ],
+    "Michelle Dockery": [
+        "F",
+        34,
+        "clear",
+        "soft",
+        "refined",
+        "warm",
+        "gentle"
+    ],
+    "Kate Beckinsale": [
+        "F",
+        42,
+        "smooth",
+        "clear",
+        "warm",
+        "sultry",
+        "refined"
+    ],
+    "Caterina Scorsone": [
+        "F",
+        34,
+        "bright",
+        "clear",
+        "warm",
+        "expressive",
+        "lively"
+    ],
+    "Ashley Jensen": [
+        "F",
+        46,
+        "warm",
+        "clear",
+        "steady",
+        "gentle",
+        "expressive"
+    ],
+    "James Nesbitt": [
+        "M",
+        51,
+        "deep",
+        "warm",
+        "steady",
+        "gruff",
+        "distinct"
+    ],
+    "Nathalie Emmanuel": [
+        "F",
+        27,
+        "soft",
+        "clear",
+        "warm",
+        "gentle",
+        "vibrant"
+    ],
+    "Carrie Fisher": [
+        "F",
+        51,
+        "raspy",
+        "witty",
+        "warm",
+        "distinct",
+        "bold"
+    ],
+    "Natalie Portman": [
+        "F",
+        34,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "refined"
+    ],
+    "Patrick Duffy": [
+        "M",
+        67,
+        "deep",
+        "calm",
+        "steady",
+        "warm",
+        "smooth"
+    ],
+    "Lea Michele": [
+        "F",
+        29,
+        "clear",
+        "powerful",
+        "warm",
+        "expressive",
+        "vibrant"
+    ],
+    "Roma Downey": [
+        "F",
+        55,
+        "soft",
+        "warm",
+        "gentle",
+        "steady",
+        "soothing"
+    ],
+    "Christopher Mintz-Plasse": [
+        "M",
+        26,
+        "light",
+        "clear",
+        "youthful",
+        "playful",
+        "quirky"
+    ],
+    "Freema Agyeman": [
+        "F",
+        36,
+        "bright",
+        "clear",
+        "warm",
+        "vibrant",
+        "expressive"
+    ],
+    "Suzanne Pleshette": [
+        "F",
+        61,
+        "husky",
+        "warm",
+        "rich",
+        "steady",
+        "distinct"
+    ],
+    "David Oyelowo": [
+        "M",
+        39,
+        "deep",
+        "rich",
+        "calm",
+        "warm",
+        "resonant"
+    ],
+    "Alain Delon": [
+        "M",
+        80,
+        "deep",
+        "smooth",
+        "calm",
+        "warm",
+        "iconic"
+    ],
+    "Robert Pattinson": [
+        "M",
+        29,
+        "soft",
+        "deep",
+        "calm",
+        "intense",
+        "distinct"
+    ],
+    "Callan McAuliffe": [
+        "M",
+        21,
+        "light",
+        "clear",
+        "youthful",
+        "gentle",
+        "warm"
+    ],
+    "Bruno Ganz": [
+        "M",
+        68,
+        "deep",
+        "rich",
+        "calm",
+        "intense",
+        "resonant"
+    ],
+    "Wendell Pierce": [
+        "M",
+        52,
+        "deep",
+        "warm",
+        "steady",
+        "rich",
+        "soulful"
+    ],
+    "Corbin Bleu": [
+        "M",
+        27,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "vibrant"
+    ],
+    "Joss Stone": [
+        "F",
+        28,
+        "rich",
+        "warm",
+        "soulful",
+        "expressive",
+        "vibrant"
+    ],
+    "David Lyons": [
+        "M",
+        39,
+        "deep",
+        "smooth",
+        "steady",
+        "warm",
+        "charming"
+    ],
+    "Alexander Siddig": [
+        "M",
+        50,
+        "deep",
+        "calm",
+        "warm",
+        "resonant",
+        "refined"
+    ],
+    "Rhys Darby": [
+        "M",
+        41,
+        "light",
+        "witty",
+        "clear",
+        "playful",
+        "quirky"
+    ],
+    "Pierfrancesco Favino": [
+        "M",
+        46,
+        "deep",
+        "rich",
+        "warm",
+        "intense",
+        "smooth"
+    ],
+    "Ryan Potter": [
+        "M",
+        20,
+        "bright",
+        "clear",
+        "youthful",
+        "warm",
+        "vibrant"
+    ],
+    "Jerry Ferrara": [
+        "M",
+        36,
+        "smooth",
+        "clear",
+        "warm",
+        "steady",
+        "charming"
+    ],
+    "Jake Abel": [
+        "M",
+        28,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "intense"
+    ],
+    "Candace Cameron Bure": [
+        "F",
+        39,
+        "bright",
+        "clear",
+        "warm",
+        "sweet",
+        "upbeat"
+    ],
+    "Adrianne Palicki": [
+        "F",
+        32,
+        "clear",
+        "steady",
+        "warm",
+        "strong",
+        "vibrant"
+    ],
+    "Maria Bamford": [
+        "F",
+        45,
+        "soft",
+        "witty",
+        "clear",
+        "quirky",
+        "distinct"
+    ],
+    "Troye Sivan": [
+        "M",
+        20,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "melodic"
+    ],
+    "Hugh Laurie": [
+        "M",
+        56,
+        "deep",
+        "witty",
+        "calm",
+        "warm",
+        "distinct"
+    ],
+    "James Lafferty": [
+        "M",
+        30,
+        "deep",
+        "smooth",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Natalia Tena": [
+        "F",
+        31,
+        "bright",
+        "clear",
+        "warm",
+        "expressive",
+        "vibrant"
+    ],
+    "Florence Henderson": [
+        "F",
+        73,
+        "warm",
+        "clear",
+        "steady",
+        "gentle",
+        "sweet"
+    ],
+    "Ang Lee": [
+        "M",
+        61,
+        "soft",
+        "calm",
+        "steady",
+        "warm",
+        "thoughtful"
+    ],
+    "Laura Carmichael": [
+        "F",
+        29,
+        "soft",
+        "clear",
+        "gentle",
+        "warm",
+        "refined"
+    ],
+    "Richard Hammond": [
+        "M",
+        46,
+        "crisp",
+        "witty",
+        "clear",
+        "warm",
+        "energetic"
+    ],
+    "Cyndi Lauper": [
+        "F",
+        62,
+        "raspy",
+        "warm",
+        "expressive",
+        "vibrant",
+        "iconic"
+    ],
+    "Veronica Ferres": [
+        "F",
+        50,
+        "rich",
+        "warm",
+        "steady",
+        "gentle",
+        "expressive"
+    ],
+    "Parineeti Chopra": [
+        "F",
+        27,
+        "bright",
+        "clear",
+        "youthful",
+        "warm",
+        "vibrant"
+    ],
+    "Greer Garson": [
+        "F",
+        78,
+        "rich",
+        "warm",
+        "clear",
+        "refined",
+        "iconic"
+    ],
+    "Donnie Yen": [
+        "M",
+        52,
+        "deep",
+        "calm",
+        "steady",
+        "intense",
+        "smooth"
+    ],
+    "Kirsten Vangsness": [
+        "F",
+        43,
+        "bright",
+        "clear",
+        "warm",
+        "playful",
+        "lively"
+    ],
+    "Jessica Lowndes": [
+        "F",
+        27,
+        "soft",
+        "clear",
+        "warm",
+        "sultry",
+        "gentle"
+    ],
+    "Randeep Hooda": [
+        "M",
+        39,
+        "deep",
+        "gruff",
+        "steady",
+        "intense",
+        "rugged"
+    ],
+    "Kodi Smit-McPhee": [
+        "M",
+        19,
+        "soft",
+        "clear",
+        "youthful",
+        "gentle",
+        "calm"
+    ],
+    "Cory Monteith": [
+        "M",
+        22,
+        "smooth",
+        "clear",
+        "youthful",
+        "warm",
+        "charming"
+    ],
+    "Julia Louis-Dreyfus": [
+        "F",
+        55,
+        "crisp",
+        "witty",
+        "warm",
+        "clear",
+        "distinct"
+    ]
+}

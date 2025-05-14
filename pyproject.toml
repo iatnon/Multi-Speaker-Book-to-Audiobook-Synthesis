@@ -1,0 +1,14 @@
+[project]
+name = "my_project"
+version = "0.1.0"
+description = "A project using Zonos and UV"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[tool.uv]
+dependencies = [
+    "kanjize>=0.3.0",     
+    "phonemizer>=3.2.0",
+    "sudachipy>=0.6.0",
+    "sudachidict-full>=20230110",
+]
